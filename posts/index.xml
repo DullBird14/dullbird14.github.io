@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sulv&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Sulv&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 20 Aug 2019 19:14:54 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAS</title>
+      <link>/posts/2023-03-04-cas/</link>
+      <pubDate>Tue, 20 Aug 2019 19:14:54 +0000</pubDate>
+      
+      <guid>/posts/2023-03-04-cas/</guid>
+      <description>[CAS] TGT: 一种情况是tgt是一个对象，类似session，是验证成功之后创建的。存着一些信息，这种情况下tgc值就是tgt对象的id。另一种情况是</description>
+    </item>
+    
+    <item>
+      <title>spring-Conditional</title>
+      <link>/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</link>
+      <pubDate>Tue, 20 Aug 2019 19:14:54 +0000</pubDate>
+      
+      <guid>/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</guid>
+      <description>@Conditional的作用原理 一般使用在配置类上，或者@Bean的方法上面 {% fold -点击显示 %} @ConditionalOnClass底层其实</description>
+    </item>
+    
+  </channel>
+</rss>
