@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sulv&#39;s Blog</title>
-    <link>https://dullbirdTest.github.io/</link>
+    <link>https://dullbird14.github.io/</link>
     <description>Recent content on Sulv&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Aug 2019 19:14:54 +0000</lastBuildDate><atom:link href="https://dullbirdTest.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2019 19:14:54 +0000</lastBuildDate><atom:link href="https://dullbird14.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAS</title>
-      <link>https://dullbirdTest.github.io/posts/2023-03-04-cas/</link>
+      <link>https://dullbird14.github.io/posts/2023-03-04-cas/</link>
       <pubDate>Tue, 20 Aug 2019 19:14:54 +0000</pubDate>
       
-      <guid>https://dullbirdTest.github.io/posts/2023-03-04-cas/</guid>
+      <guid>https://dullbird14.github.io/posts/2023-03-04-cas/</guid>
       <description>[CAS] TGT: 一种情况是tgt是一个对象，类似session，是验证成功之后创建的。存着一些信息，这种情况下tgc值就是tgt对象的id。另一种情况是</description>
     </item>
     
     <item>
       <title>spring-Conditional</title>
-      <link>https://dullbirdTest.github.io/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</link>
+      <link>https://dullbird14.github.io/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</link>
       <pubDate>Tue, 20 Aug 2019 19:14:54 +0000</pubDate>
       
-      <guid>https://dullbirdTest.github.io/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</guid>
+      <guid>https://dullbird14.github.io/posts/2023-03-04-conditional%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8E%9F%E7%90%86/</guid>
       <description>@Conditional的作用原理 一般使用在配置类上，或者@Bean的方法上面 {% fold -点击显示 %} @ConditionalOnClass底层其实</description>
     </item>
     
